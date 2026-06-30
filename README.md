@@ -1,4 +1,5 @@
-
+# 💫 Hi 👋, I'm Daksh Rajora
+**A passionate MERN Stack Developer 💻 | Computer Engineering Student 🎓 | Full Stack Web Developer 🚀 from India 🇮🇳**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daksh_rajora_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dakshrajora) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dakshrajora11@gmail.com) 
 <!-- Snake Game Repo View -->
