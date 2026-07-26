@@ -6,7 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG"/>
 
-<br><br>
 </div>
 
 ---
