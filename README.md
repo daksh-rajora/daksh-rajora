@@ -1,24 +1,115 @@
-# 💫 Hi 👋, I'm Daksh Rajora
-**A passionate MERN Stack Developer 💻 | Computer Engineering Student 🎓 | Full Stack Web Developer 🚀 from India 🇮🇳**
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daksh_rajora_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dakshrajora) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dakshrajora11@gmail.com) 
-<!-- Snake Game Repo View -->
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+# 👋 Hey, I'm Daksh Rajora
+
+### 💻 MERN Stack Developer | 🎓 Computer Engineering Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG"/>
+
+<br><br>
 </div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Engineering Student
+- 💻 Passionate MERN Stack Developer
+- 🌱 Currently learning **Genrative AI**
+- 🚀 Building scalable Full Stack Applications
+- 🤝 Open to Internship Opportunities
+- ⚡ Love solving real-world problems through code
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/dakshrajora" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://instagram.com/daksh_rajora_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:dakshrajora11@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://profile-readme-generator.com/assets/snake.svg"/>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<img align="right" alt="Coding" width="500"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjF3MGNzcjQzbzhlZThodnhxMDQ4a3o1N3IxeWRwcGo5YjVqaXhnbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jTNG3RF6EwbkpD4LZx/giphy.gif"/>
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,python"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,render"/>
+</p>
+
+<br clear="right"/>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=daksh-rajora&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=daksh-rajora&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=daksh-rajora&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=daksh-rajora&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=daksh-rajora&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💭 Random Dev Quote
 
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
 
+### ⭐ Thanks for visiting my profile!
+
+### 💙 Code • Learn • Build • Repeat 🚀
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:24283B,100:7AA2F7&height=130&section=footer"/>
